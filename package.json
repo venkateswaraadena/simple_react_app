@@ -9,7 +9,7 @@
     "react-folder-tree": "^3.0.0",
     "react-keyed-file-browser": "^1.5.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "2.1.5"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
